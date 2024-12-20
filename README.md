@@ -119,6 +119,9 @@ This project is structured to ensure a systematic and incremental development pr
   2. Build the homepage layout and navigation bar.
      - **Reading:** [Bootstrap Components](https://getbootstrap.com/docs/5.0/components/alerts/)
      - **Video:** [Bootstrap Crash Course](https://www.youtube.com/watch?v=hnCmSXCZEpU)
+  3. Install Node.js, npm, and VSCode.  
+     - **Reading**: [Node.js Installation](https://nodejs.org/en/download/)  
+     - **Video**: [Setting Up Node.js and npm](https://www.youtube.com/watch?v=TlB_eWDSMt4)  
 
 - **Deliverables:**
   - Responsive homepage with basic navigation and placeholders for product sections.
