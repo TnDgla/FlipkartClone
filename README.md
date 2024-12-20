@@ -153,7 +153,7 @@ This project is structured to ensure systematic and incremental development. Eac
      - **Video:** [Redux Tutorial](https://www.youtube.com/watch?v=CVpUuw9XSjY)
   3. Display product details and manage cart operations.
      - **Reading:** [React Components](https://reactjs.org/docs/components-and-props.html)
-     - **Video:** [React Component Tutorial](https://www.youtube.com/watch?v=SfWR3dKnFIo)
+     - **Video:** [React Component Tutorial](https://www.youtube.com/watch?v=S4VH8hddg8c&t=112s)
 
 - **Deliverables:**
   - Functional product listing and shopping cart.
