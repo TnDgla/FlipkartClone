@@ -95,13 +95,14 @@ To create an efficient and user-friendly e-commerce platform that mirrors the fu
 ---
 
 ### **Flowchart**
-
-#### **Program Overview**
-This project is structured to ensure systematic and incremental development. Each week builds upon the previous deliverables, enabling a smooth transition from basic to advanced functionalities.
-
-**Flowchart:**
-
 ![Flowchart]()
+
+---
+
+### **Project Structure for Feature Implementation**
+This project is structured to ensure a systematic and incremental development process. Each week builds upon the previous deliverables, enabling a smooth transition from basic to advanced functionalities.
+
+**NOTE:** Participants are encouraged to customize the design and functionality to make the application unique.
 
 ---
 
