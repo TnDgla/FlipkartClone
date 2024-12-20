@@ -135,7 +135,7 @@ This project is structured to ensure systematic and incremental development. Eac
      - **Video:** [JWT Authentication Guide](https://www.youtube.com/watch?v=mbsmsi7l3r4)
   3. Create login and signup forms in React.
      - **Reading:** [React Forms](https://reactjs.org/docs/forms.html)
-     - **Video:** [React Form Tutorial](https://www.youtube.com/watch?v=5Y4STV8bnK4)
+     - **Video:** [React Form Tutorial](https://www.youtube.com/watch?v=SdzMBWT2CDQ&t=321s)
 
 - **Deliverables:**
   - Functional login and signup system with secure authentication.
@@ -164,14 +164,14 @@ This project is structured to ensure systematic and incremental development. Eac
 - **Goal:** Add payment gateway and order management.
 - **Tasks:**
   1. Integrate Paytm API for payment processing.
-     - **Reading:** [Paytm API Documentation](https://developer.paytm.com/docs/api/)
+     - **Reading:** [Paytm API Documentation](https://business.paytm.com/docs)
      - **Video:** [Paytm Payment Gateway Tutorial](https://www.youtube.com/watch?v=volAze3fpt0)
   2. Develop order tracking APIs and UI.
      - **Reading:** [Express Routing](https://expressjs.com/en/guide/routing.html)
-     - **Video:** [Order Tracking in React](https://www.youtube.com/watch?v=SBvmnHTQIPY)
+     - **Video:** [Order Tracking in React](https://www.youtube.com/watch?v=0Hu27PoloYw&t=97s)
   3. Notify users of order updates using Socket.IO.
      - **Reading:** [Socket.IO Docs](https://socket.io/docs/v4/)
-     - **Video:** [Real-Time Apps with Socket.IO](https://www.youtube.com/watch?v=O6JcOfhHz8k)
+     - **Video:** [Real-Time Apps with Socket.IO](https://www.youtube.com/watch?v=ZKEqqIO7n-k)
 
 - **Deliverables:**
   - Secure payment gateway and functional order tracking.
@@ -186,7 +186,7 @@ This project is structured to ensure systematic and incremental development. Eac
      - **Video:** [Postman Tutorial](https://www.youtube.com/watch?v=VywxIQ2ZXw4)
   2. Deploy the frontend and backend to Vercel and Heroku.
      - **Reading:** [Deploying MERN Apps](https://vercel.com/docs)
-     - **Video:** [MERN Deployment Guide](https://www.youtube.com/watch?v=KKyag6t98g8)
+     - **Video:** [MERN Deployment Guide](https://www.youtube.com/watch?v=Cfi0mymfKiA&t=11s)
 
 - **Deliverables:**
   - Fully deployed Flipkart Clone accessible via a public URL.
