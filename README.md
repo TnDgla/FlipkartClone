@@ -95,7 +95,8 @@ To create an efficient and user-friendly e-commerce platform that mirrors the fu
 ---
 
 ### **Flowchart**
-![Flowchart]()
+![image](https://github.com/user-attachments/assets/b4241a4d-fe3b-434c-be39-49b2f980397f)
+
 
 ---
 
